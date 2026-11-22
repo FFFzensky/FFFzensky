@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:2a0010,100:7a0026&height=210&section=header&text=FIERLANSYAH&fontColor=f2f2f2&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Android%20%26%20Web%20Developer%20%E2%80%A2%20Guitarist%20%E2%80%A2%20Yogyakarta&descSize=17&descAlignY=58&descColor=c9a3b1" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Fierlansyah banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D1245B&center=true&vCenter=true&width=620&lines=%E4%BB%AE%E9%9D%A2%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%E3%81%B8+%E2%80%94+beyond+the+mask;Android+dev+by+day%2C+guitarist+by+night;Kotlin+%E2%80%A2+Java+%E2%80%A2+PHP+%E2%80%A2+MySQL;%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8B%89%E5%BC%B7%E4%B8%AD...+%F0%9F%A5%80" alt="typing intro"/>
 
@@ -11,11 +11,11 @@
 ### 🥀 `whoami`
 
 ```text
-name      : Fierlansyah Krishna Desfarro  (Fier)
-role      : Informatics Engineering Education student @ Universitas Negeri Yogyakarta
-focus     : Android front end (Kotlin / Java) · Web apps (PHP / MySQL)
-currently : 7th semester → graduating 2027 → aiming for an IT career in Japan 🇯🇵
-off-code  : playing guitar along with metal and Ave Mujica backing tracks 🎸
+name    : Fierlansyah Krishna Desfarro (Fier)
+study   : Informatics Engineering Education @ UNY
+focus   : Android (Kotlin / Java) · Web (PHP / MySQL)
+now     : 7th semester → grad 2027 → IT career in Japan
+offline : guitar · metal · Ave Mujica
 ```
 
 > はじめまして！フィエルです。日本語を勉強中です。よろしくお願いします。
@@ -70,6 +70,6 @@ off-code  : playing guitar along with metal and Ave Mujica backing tracks 🎸
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0026,45:2a0010,100:000000&height=110&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
