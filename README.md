@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Fierlansyah banner"/>
+<img src="assets/header.svg" width="100%" alt="Fierlansyah banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D1245B&center=true&vCenter=true&width=620&lines=%E4%BB%AE%E9%9D%A2%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%E3%81%B8+%E2%80%94+beyond+the+mask;From+Figma+to+working+Android+apps;Kotlin+%E2%80%A2+Java+%E2%80%A2+PHP+%E2%80%A2+MySQL;%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%8B%89%E5%BC%B7%E4%B8%AD...+%F0%9F%A5%80" alt="typing intro"/>
 
