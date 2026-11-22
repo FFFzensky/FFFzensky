@@ -55,11 +55,11 @@ offline : guitar · metal · Ave Mujica
 ### 🎸 Setlist <sub>(what I'm practicing on guitar)</sub>
 
 ```text
-▶ Ave Mujica ............ Sophie
-▶ Ave Mujica ............ Symbol I : △
-▶ Disturbed ............. Decadence
-▶ System of a Down ...... B.Y.O.B.
-▶ Rage Against the Machine  Killing in the Name
+▶ Ave Mujica ................ Sophie
+▶ Ave Mujica ................ Symbol I : △
+▶ Disturbed ................. Decadence
+▶ System of a Down .......... B.Y.O.B.
+▶ Rage Against the Machine .. Killing in the Name
 ```
 
 ---
