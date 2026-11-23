@@ -11,7 +11,7 @@
 ### 🥀 `whoami`
 
 ```text
-name    : Fierlansyah Krishna Desfarro (Fier)
+name    : Fierlansyah Krishna D. (Fier)
 study   : Informatics Engineering Education @ UNY
 focus   : Android (Kotlin / Java) · Web (PHP / MySQL)
 ```
