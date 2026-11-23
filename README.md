@@ -37,10 +37,10 @@ focus   : Android (Kotlin / Java) · Web (PHP / MySQL)
 
 ### 🎭 Stage stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FFFzensky&show_icons=true&hide_rank=true&bg_color=0d0d0d&title_color=d1245b&icon_color=d1245b&text_color=f2d7e0&ring_color=d1245b&border_color=5c001d&border_radius=10" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFFzensky&layout=compact&hide=jupyter%20notebook&bg_color=0d0d0d&title_color=d1245b&text_color=f2d7e0&border_color=5c001d&border_radius=10" alt="Top languages"/>
-</div>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FFFzensky&show_icons=true&hide_rank=true&line_height=27&bg_color=0d0d0d&title_color=d1245b&icon_color=d1245b&text_color=f2d7e0&border_color=5c001d&border_radius=10" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFFzensky&card_width=458&hide=jupyter%20notebook&bg_color=0d0d0d&title_color=d1245b&text_color=f2d7e0&border_color=5c001d&border_radius=10" alt="Top languages"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
