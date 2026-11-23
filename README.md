@@ -23,17 +23,24 @@ focus   : Android (Kotlin / Java) · Web (PHP / MySQL)
 <p>
 <img src="https://img.shields.io/badge/Kotlin-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=B125EA"/>
 <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Android%20Studio-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDA3QUNDIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCA2IDIgMTJsNiA2Ii8%2BPHBhdGggZD0ibTE2IDYgNiA2LTYgNiIvPjxwYXRoIGQ9Im0xNCA0LTQgMTYiLz48L3N2Zz4%3D"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-0d0d0d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQTk3QkZGIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCA2IDIgMTJsNiA2Ii8%2BPHBhdGggZD0ibTE2IDYgNiA2LTYgNiIvPjxwYXRoIGQ9Im0xNCA0LTQgMTYiLz48L3N2Zz4%3D"/>
 <img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=8892BF"/>
 <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Ren'Py-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+### 🎭 Stage stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FFFzensky&show_icons=true&bg_color=0d0d0d&title_color=d1245b&icon_color=d1245b&text_color=f2d7e0&ring_color=d1245b&border_color=5c001d&border_radius=10" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFFzensky&layout=compact&hide=jupyter%20notebook&bg_color=0d0d0d&title_color=d1245b&text_color=f2d7e0&border_color=5c001d&border_radius=10" alt="Top languages"/>
+</div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
