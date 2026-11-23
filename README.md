@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Fierlansyah banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D1245B&center=true&vCenter=true&width=640&lines=Alea+iacta+est+%E2%80%94+the+die+is+cast;Turning+ideas+into+working+Android+apps;Kotlin+%E2%80%A2+Java+%E2%80%A2+PHP+%E2%80%A2+MySQL;Building+things+that+just+work+%F0%9F%A5%80" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D1245B&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Fier+%F0%9F%91%8B;Android+%26+web+developer+from+Yogyakarta;Kotlin+%E2%80%A2+Java+%E2%80%A2+PHP+%E2%80%A2+MySQL;Thanks+for+stopping+by+%F0%9F%A5%80" alt="typing intro"/>
 
 </div>
 
